@@ -1,4 +1,4 @@
-## eSportsLS I [Optimización combinatoria]
+## eSportsLS I [Ordenación mediante recursividad]
 Este proyecto, denominado "eSports La Salle," es un ejercicio práctico que se centra en la implementación de algoritmos de ordenación en el lenguaje de programación Java utilizando IntelliJ IDEA como el entorno de desarrollo. El objetivo del proyecto es ordenar equipos y jugadores de League of Legends con base en diferentes criterios. Además, se proporciona una comparativa de los tiempos de ejecución de los algoritmos de ordenación utilizados en función del tamaño de los conjuntos de datos.
 ### Algoritmos de Ordenación Implementados:
 - QuickSort: Este algoritmo de ordenación se basa en el principio de "divide y vencerás." Divide el array en subarrays más pequeños y ordena estos subarrays recursivamente. Los elementos se comparan con un "pivot" y se ubican en el lado izquierdo o derecho según su relación con el pivot.
