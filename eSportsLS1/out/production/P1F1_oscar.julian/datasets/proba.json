@@ -1,0 +1,996 @@
+[
+  {
+    "team": "team 1",
+    "winrate": 45.57,
+    "jugadores": [
+      {
+        "name": "Pol Muñoz",
+        "total_kills": 99,
+        "total_deaths": 1,
+        "total_assistances": 99,
+        "nationality": "korea",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 19"
+          }
+        ]
+      },
+      {
+        "name": "Dani Casado",
+        "total_kills": 98,
+        "total_deaths": 1,
+        "total_assistances": 98,
+        "nationality": "EEUU",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "Marc Aynés",
+        "total_kills": 97,
+        "total_deaths": 1,
+        "total_assistances": 98,
+        "nationality": "Canada",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 37"
+          }
+        ]
+      },
+      {
+        "name": "Faker",
+        "total_kills": 35,
+        "total_deaths": 73,
+        "total_assistances": 35,
+        "nationality": "korea",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 83"
+          }
+        ]
+      },
+      {
+        "name": "Alexelcapo",
+        "total_kills": 20,
+        "total_deaths": 17,
+        "total_assistances": 62,
+        "nationality": "korea",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 2",
+    "winrate": 91.36,
+    "jugadores": [
+      {
+        "name": "pepe",
+        "total_kills": 60,
+        "total_deaths": 98,
+        "total_assistances": 61,
+        "nationality": "korea",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 48"
+          }
+        ]
+      },
+      {
+        "name": "Joan",
+        "total_kills": 98,
+        "total_deaths": 95,
+        "total_assistances": 57,
+        "nationality": "korea",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 39"
+          }
+        ]
+      },
+      {
+        "name": "Viva Compus",
+        "total_kills": 21,
+        "total_deaths": 5,
+        "total_assistances": 49,
+        "nationality": "korea",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 17"
+          }
+        ]
+      },
+      {
+        "name": "PAED eassy",
+        "total_kills": 41,
+        "total_deaths": 72,
+        "total_assistances": 23,
+        "nationality": "Canada",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "Patito",
+        "total_kills": 47,
+        "total_deaths": 50,
+        "total_assistances": 2,
+        "nationality": "España",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 3",
+    "winrate": 11.32,
+    "jugadores": [
+      {
+        "name": "Jose",
+        "total_kills": 48,
+        "total_deaths": 18,
+        "total_assistances": 79,
+        "nationality": "Canada",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 67"
+          }
+        ]
+      },
+      {
+        "name": "GUS",
+        "total_kills": 8,
+        "total_deaths": 53,
+        "total_assistances": 88,
+        "nationality": "Francia",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 5"
+          }
+        ]
+      },
+      {
+        "name": "Mates",
+        "total_kills": 10,
+        "total_deaths": 59,
+        "total_assistances": 46,
+        "nationality": "España",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 78"
+          }
+        ]
+      },
+      {
+        "name": "becario",
+        "total_kills": 35,
+        "total_deaths": 90,
+        "total_assistances": 4,
+        "nationality": "Canada",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 85"
+          }
+        ]
+      },
+      {
+        "name": "Maria",
+        "total_kills": 1,
+        "total_deaths": 1,
+        "total_assistances": 50,
+        "nationality": "España",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 71"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 4",
+    "winrate": 54.58,
+    "jugadores": [
+      {
+        "name": "Marina",
+        "total_kills": 66,
+        "total_deaths": 83,
+        "total_assistances": 71,
+        "nationality": "EEUU",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 91"
+          }
+        ]
+      },
+      {
+        "name": "Mel",
+        "total_kills": 48,
+        "total_deaths": 45,
+        "total_assistances": 63,
+        "nationality": "Francia",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 28"
+          }
+        ]
+      },
+      {
+        "name": "Anto",
+        "total_kills": 57,
+        "total_deaths": 28,
+        "total_assistances": 2,
+        "nationality": "korea",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 18"
+          }
+        ]
+      },
+      {
+        "name": "pico",
+        "total_kills": 9,
+        "total_deaths": 30,
+        "total_assistances": 53,
+        "nationality": "Canada",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 99"
+          }
+        ]
+      },
+      {
+        "name": "butifarra",
+        "total_kills": 73,
+        "total_deaths": 90,
+        "total_assistances": 61,
+        "nationality": "EEUU",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 5",
+    "winrate": 94.69,
+    "jugadores": [
+      {
+        "name": "daniel",
+        "total_kills": 98,
+        "total_deaths": 44,
+        "total_assistances": 78,
+        "nationality": "Canada",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 66"
+          }
+        ]
+      },
+      {
+        "name": "pol",
+        "total_kills": 27,
+        "total_deaths": 1,
+        "total_assistances": 85,
+        "nationality": "Francia",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      },
+      {
+        "name": "marc",
+        "total_kills": 25,
+        "total_deaths": 38,
+        "total_assistances": 63,
+        "nationality": "Francia",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 12"
+          }
+        ]
+      },
+      {
+        "name": "zacarias",
+        "total_kills": 75,
+        "total_deaths": 46,
+        "total_assistances": 89,
+        "nationality": "Francia",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 4"
+          }
+        ]
+      },
+      {
+        "name": "gerard",
+        "total_kills": 50,
+        "total_deaths": 72,
+        "total_assistances": 54,
+        "nationality": "Francia",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 6",
+    "winrate": 38.87,
+    "jugadores": [
+      {
+        "name": "ramon",
+        "total_kills": 90,
+        "total_deaths": 81,
+        "total_assistances": 18,
+        "nationality": "EEUU",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 57"
+          }
+        ]
+      },
+      {
+        "name": "Anna",
+        "total_kills": 4,
+        "total_deaths": 98,
+        "total_assistances": 13,
+        "nationality": "España",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 52"
+          }
+        ]
+      },
+      {
+        "name": "ana",
+        "total_kills": 42,
+        "total_deaths": 57,
+        "total_assistances": 74,
+        "nationality": "Canada",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "pikachu",
+        "total_kills": 72,
+        "total_deaths": 93,
+        "total_assistances": 97,
+        "nationality": "España",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 15"
+          }
+        ]
+      },
+      {
+        "name": "ocelote",
+        "total_kills": 12,
+        "total_deaths": 82,
+        "total_assistances": 53,
+        "nationality": "Canada",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 7",
+    "winrate": 35.61,
+    "jugadores": [
+      {
+        "name": "XPEKE",
+        "total_kills": 11,
+        "total_deaths": 4,
+        "total_assistances": 17,
+        "nationality": "EEUU",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 36"
+          }
+        ]
+      },
+      {
+        "name": "andreu",
+        "total_kills": 88,
+        "total_deaths": 83,
+        "total_assistances": 80,
+        "nationality": "Canada",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 21"
+          }
+        ]
+      },
+      {
+        "name": "alex",
+        "total_kills": 35,
+        "total_deaths": 88,
+        "total_assistances": 12,
+        "nationality": "korea",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 28"
+          }
+        ]
+      },
+      {
+        "name": "alfredo",
+        "total_kills": 14,
+        "total_deaths": 1,
+        "total_assistances": 38,
+        "nationality": "España",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 49"
+          }
+        ]
+      },
+      {
+        "name": "pesao",
+        "total_kills": 9,
+        "total_deaths": 15,
+        "total_assistances": 31,
+        "nationality": "EEUU",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 8",
+    "winrate": 61.61,
+    "jugadores": [
+      {
+        "name": "pray",
+        "total_kills": 96,
+        "total_deaths": 40,
+        "total_assistances": 33,
+        "nationality": "Canada",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      },
+      {
+        "name": "BDD",
+        "total_kills": 37,
+        "total_deaths": 32,
+        "total_assistances": 44,
+        "nationality": "Francia",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 80"
+          }
+        ]
+      },
+      {
+        "name": "peanut",
+        "total_kills": 27,
+        "total_deaths": 31,
+        "total_assistances": 95,
+        "nationality": "korea",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 16"
+          }
+        ]
+      },
+      {
+        "name": "BBDD mola",
+        "total_kills": 9,
+        "total_deaths": 63,
+        "total_assistances": 35,
+        "nationality": "Francia",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 70"
+          }
+        ]
+      },
+      {
+        "name": "caps",
+        "total_kills": 13,
+        "total_deaths": 61,
+        "total_assistances": 2,
+        "nationality": "korea",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 9",
+    "winrate": 79.52,
+    "jugadores": [
+      {
+        "name": "rekkles",
+        "total_kills": 79,
+        "total_deaths": 40,
+        "total_assistances": 43,
+        "nationality": "korea",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 79"
+          }
+        ]
+      },
+      {
+        "name": "perkz",
+        "total_kills": 31,
+        "total_deaths": 36,
+        "total_assistances": 63,
+        "nationality": "Canada",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 32"
+          }
+        ]
+      },
+      {
+        "name": "doublelift",
+        "total_kills": 43,
+        "total_deaths": 10,
+        "total_assistances": 80,
+        "nationality": "España",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 55"
+          }
+        ]
+      },
+      {
+        "name": "mithy",
+        "total_kills": 33,
+        "total_deaths": 14,
+        "total_assistances": 58,
+        "nationality": "Francia",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 19"
+          }
+        ]
+      },
+      {
+        "name": "jiizuke",
+        "total_kills": 95,
+        "total_deaths": 40,
+        "total_assistances": 86,
+        "nationality": "Francia",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 53"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 10",
+    "winrate": 54.44,
+    "jugadores": [
+      {
+        "name": "broxah",
+        "total_kills": 12,
+        "total_deaths": 34,
+        "total_assistances": 47,
+        "nationality": "España",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 30"
+          }
+        ]
+      },
+      {
+        "name": "wunder",
+        "total_kills": 99,
+        "total_deaths": 55,
+        "total_assistances": 76,
+        "nationality": "EEUU",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 21"
+          }
+        ]
+      },
+      {
+        "name": "samux",
+        "total_kills": 38,
+        "total_deaths": 89,
+        "total_assistances": 63,
+        "nationality": "Francia",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 86"
+          }
+        ]
+      },
+      {
+        "name": "sneaky",
+        "total_kills": 44,
+        "total_deaths": 80,
+        "total_assistances": 12,
+        "nationality": "korea",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 68"
+          }
+        ]
+      },
+      {
+        "name": "attila",
+        "total_kills": 35,
+        "total_deaths": 72,
+        "total_assistances": 88,
+        "nationality": "Francia",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 65"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 11",
+    "winrate": 11.43,
+    "jugadores": [
+      {
+        "name": "bwipo",
+        "total_kills": 46,
+        "total_deaths": 3,
+        "total_assistances": 15,
+        "nationality": "Canada",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 95"
+          }
+        ]
+      },
+      {
+        "name": "odoamne",
+        "total_kills": 68,
+        "total_deaths": 71,
+        "total_assistances": 9,
+        "nationality": "EEUU",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      },
+      {
+        "name": "nemesis",
+        "total_kills": 40,
+        "total_deaths": 6,
+        "total_assistances": 77,
+        "nationality": "korea",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 91"
+          }
+        ]
+      },
+      {
+        "name": "licorice",
+        "total_kills": 99,
+        "total_deaths": 37,
+        "total_assistances": 60,
+        "nationality": "EEUU",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 90"
+          }
+        ]
+      },
+      {
+        "name": "chupito",
+        "total_kills": 57,
+        "total_deaths": 93,
+        "total_assistances": 34,
+        "nationality": "Canada",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 96"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 98",
+    "winrate": 89.91,
+    "jugadores": [
+      {
+        "name": "peit",
+        "total_kills": 81,
+        "total_deaths": 7,
+        "total_assistances": 95,
+        "nationality": "Francia",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 97"
+          }
+        ]
+      },
+      {
+        "name": "you lose",
+        "total_kills": 10,
+        "total_deaths": 88,
+        "total_assistances": 88,
+        "nationality": "Francia",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 57"
+          }
+        ]
+      },
+      {
+        "name": "child",
+        "total_kills": 40,
+        "total_deaths": 39,
+        "total_assistances": 34,
+        "nationality": "EEUU",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 43"
+          }
+        ]
+      },
+      {
+        "name": "plastic",
+        "total_kills": 45,
+        "total_deaths": 15,
+        "total_assistances": 67,
+        "nationality": "EEUU",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 68"
+          }
+        ]
+      },
+      {
+        "name": "outplay",
+        "total_kills": 35,
+        "total_deaths": 99,
+        "total_assistances": 13,
+        "nationality": "EEUU",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 99",
+    "winrate": 58.54,
+    "jugadores": [
+      {
+        "name": "change",
+        "total_kills": 76,
+        "total_deaths": 55,
+        "total_assistances": 70,
+        "nationality": "korea",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 64"
+          }
+        ]
+      },
+      {
+        "name": "warriors",
+        "total_kills": 80,
+        "total_deaths": 51,
+        "total_assistances": 81,
+        "nationality": "España",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 37"
+          }
+        ]
+      },
+      {
+        "name": "build",
+        "total_kills": 87,
+        "total_deaths": 2,
+        "total_assistances": 31,
+        "nationality": "Francia",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 31"
+          }
+        ]
+      },
+      {
+        "name": "turn",
+        "total_kills": 35,
+        "total_deaths": 65,
+        "total_assistances": 29,
+        "nationality": "korea",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 94"
+          }
+        ]
+      },
+      {
+        "name": "arrive",
+        "total_kills": 70,
+        "total_deaths": 7,
+        "total_assistances": 89,
+        "nationality": "España",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 27"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team": "team 100",
+    "winrate": 41.39,
+    "jugadores": [
+      {
+        "name": "spirit",
+        "total_kills": 61,
+        "total_deaths": 19,
+        "total_assistances": 9,
+        "nationality": "korea",
+        "main_position": "Top",
+        "main_legends": [
+          {
+            "name": "Legend 33"
+          }
+        ]
+      },
+      {
+        "name": "aprove",
+        "total_kills": 16,
+        "total_deaths": 77,
+        "total_assistances": 12,
+        "nationality": "EEUU",
+        "main_position": "Jungle",
+        "main_legends": [
+          {
+            "name": "Legend 62"
+          }
+        ]
+      },
+      {
+        "name": "negative",
+        "total_kills": 3,
+        "total_deaths": 67,
+        "total_assistances": 48,
+        "nationality": "EEUU",
+        "main_position": "Mid",
+        "main_legends": [
+          {
+            "name": "Legend 38"
+          }
+        ]
+      },
+      {
+        "name": "antonine",
+        "total_kills": 30,
+        "total_deaths": 94,
+        "total_assistances": 31,
+        "nationality": "EEUU",
+        "main_position": "ADC",
+        "main_legends": [
+          {
+            "name": "Legend 83"
+          }
+        ]
+      },
+      {
+        "name": "portal",
+        "total_kills": 61,
+        "total_deaths": 74,
+        "total_assistances": 75,
+        "nationality": "EEUU",
+        "main_position": "Support",
+        "main_legends": [
+          {
+            "name": "Legend 81"
+          }
+        ]
+      }
+    ]
+  }
+]
