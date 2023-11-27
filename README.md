@@ -1,4 +1,4 @@
-# Algoritmos 'C'
+# ProgAlgoritmos
 Este repositorio está dedicado a la programación avanzada y estructurada de datos, y su objetivo principal es proporcionar una plataforma para compartir ejercicios y pequeños proyectos relacionados con la programación de algoritmos. El enfoque central de este repositorio es explorar la eficiencia de los algoritmos, analizar diferentes técnicas de programación y presentar estructuras de datos utilizadas para resolver problemas de manera eficiente y elegante.
 ## Aspectos clave:
 
